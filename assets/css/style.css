@@ -239,3 +239,9 @@ border-color: teal;
   .contact-info a {
     color: #fce138;
   }
+  .hero-secondary {
+    margin: 20px;
+    
+    font-size: 20px;
+    color:#fce138;;
+  }
