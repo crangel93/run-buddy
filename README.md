@@ -2,7 +2,7 @@
 # Run Buddy Inc.
 =======
 # Run Buddy, Inc
->>>>>>> 875bb4b3cd5f0f5ba2cd9b334c1c098fa9cf2d40
+>>>>>>> 875bb4b3cd5f0f5ba2cd9b334c1c098fa9cf2d40git
 
 ## Purpose
 A website that offers fitness training services. 
